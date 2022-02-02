@@ -1,0 +1,38 @@
+[
+    {
+        "model": "levelupapi.event", 
+        "pk": 1, 
+        "fields": {
+            "game": 1, 
+            "description": "Sorry! is a board game that is based on the ancient Indian cross and circle game Pachisi. ",
+            "date": "2022-02-01", 
+            "time": "1:00",
+            "organizer": 1, 
+            "attendees": [1]
+        }
+    },
+    {
+        "model": "levelupapi.event", 
+        "pk": 1, 
+        "fields": {
+            "game": 2, 
+            "description": "D&D is a fantasy tabletop role-playing game (RPG) originally designed by Gary Gygax and Dave Arneson.",
+            "date": "2022-02-01", 
+            "time": "2:00",
+            "organizer": 1, 
+            "attendees": [1]
+        }
+    },
+    {
+        "model": "levelupapi.event", 
+        "pk": 1, 
+        "fields": {
+            "game": 3, 
+            "description": "The Sims is a series of life simulation video games developed by Maxis and published by Electronic Arts. ",
+            "date": "2022-02-01", 
+            "time": "3:00",
+            "organizer": 1, 
+            "attendees": [1]
+        }
+    }
+]
