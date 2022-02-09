@@ -13,7 +13,7 @@
     },
     {
         "model": "levelupapi.event", 
-        "pk": 1, 
+        "pk": 2, 
         "fields": {
             "game": 2, 
             "description": "D&D is a fantasy tabletop role-playing game (RPG) originally designed by Gary Gygax and Dave Arneson.",
@@ -25,7 +25,7 @@
     },
     {
         "model": "levelupapi.event", 
-        "pk": 1, 
+        "pk": 3, 
         "fields": {
             "game": 3, 
             "description": "The Sims is a series of life simulation video games developed by Maxis and published by Electronic Arts. ",
